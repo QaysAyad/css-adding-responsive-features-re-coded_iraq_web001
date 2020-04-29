@@ -63,9 +63,24 @@
       display: inline;
 
     }
-    #social {
-      top: 63px;
+    .menu-icon {
+        display:inline !important;
+      }
 
+      .reality {
+        display:none;
+      }
+
+    .twit {
+      display:inline;
+    }
+
+    .fbook {
+      display:inline;
+    }
+
+    .gplus {
+      display:inline;
     }
 
 
